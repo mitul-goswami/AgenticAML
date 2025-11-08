@@ -1,0 +1,28 @@
+
+===============================================
+CASE ANALYSIS REPORT
+===============================================
+Generated: 2025-09-11 21:43:29
+Case ID: CA2004
+
+1. CASE DESCRIPTION:
+James Boyd, customer CUST9021, has a history of suspicious transactions and multiple previous cases; his occupation and age do not align with the high-value transactions; he has multiple accounts and locations; and his employer and occupation are inconsistent with the transaction patterns.
+
+2. SUSPICION SCORE: 85.0/100
+   Risk Level: HIGH RISK
+
+3. ANALYSIS NARRATIVE:
+Multiple previous cases (4) indicate a high-risk pattern; the average transaction amount ($28,158.25) is above-average; the customer has multiple accounts (1) and locations (2); the occupation (Civil Service fast streamer) and age (57) do not align with the high-value transactions; the employer (Bruce Inc) is unique and may be a red flag; the customer's history of suspicious transactions (CASE776, CASE869, CASE716, CASE719) suggests a pattern of deceit; the total transaction amount ($112,633.00) is significant and warrants further investigation; the customer's age and occupation are inconsistent with the high-value transactions; the customer's occupation and employer are not consistent with the transaction patterns; the customer has a history of frequent employer changes; the customer's occupation and age do not align with the high-value transactions; the customer's history of suspicious transactions suggests a pattern of deceit; the customer's occupation and employer are not consistent with the transaction patterns.
+
+4. DATABASE SUMMARY:
+- Total Records Found: 4
+- Total Transaction Amount: $112,633.00
+- Average Transaction Amount: $28,158.25
+- Previous Cases: 4
+
+5. RECOMMENDATIONS:
+• Immediate investigation required
+• Escalate to senior analyst
+• Consider account restrictions
+
+===============================================
