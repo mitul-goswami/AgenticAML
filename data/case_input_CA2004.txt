@@ -1,0 +1,6 @@
+Case ID: CA6373
+Name: Kelly Lee
+CustID: CUST9051
+Accounts: ACC212, ACC223
+Transactions: TXN966
+Previous Cases: CA7248
